@@ -1,0 +1,14 @@
+total 64
+-rw-rw-r--  1 ec2-user ec2-user 20414 Dec 24 22:02 AUTHORS
+drwxrwxr-x 17 ec2-user ec2-user  4096 Dec 24 22:02 django
+drwxrwxr-x 14 ec2-user ec2-user  4096 Dec 24 22:02 docs
+drwxrwxr-x  2 ec2-user ec2-user  4096 Dec 24 22:02 extras
+-rw-rw-r--  1 ec2-user ec2-user   648 Dec 24 22:02 INSTALL
+-rw-rw-r--  1 ec2-user ec2-user  1559 Dec 24 22:02 LICENSE
+-rw-rw-r--  1 ec2-user ec2-user  1545 Dec 24 22:02 MANIFEST.in
+-rw-rw-r--  1 ec2-user ec2-user  1821 Dec 24 22:02 README
+drwxrwxr-x  2 ec2-user ec2-user  4096 Dec 24 22:02 scripts
+-rw-rw-r--  1 ec2-user ec2-user   108 Dec 24 22:02 setup.cfg
+-rw-rw-r--  1 ec2-user ec2-user  4009 Dec 24 22:02 setup.py
+drwxrwxr-x  5 ec2-user ec2-user  4096 Dec 24 22:02 tests
+-rw-rw-r--  1 ec2-user ec2-user     0 Dec 24 22:02 test.txt
